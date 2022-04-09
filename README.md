@@ -8,3 +8,9 @@
 <!-- methods -->
 <!-- if/else -->
 <!-- while -->
+<!-- For loop -->
+<!-- List -->
+<!-- Tuples -->
+<!-- Dictionary -->
+<!-- Function -->
+<!-- Modules -->
