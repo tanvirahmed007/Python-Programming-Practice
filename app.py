@@ -430,9 +430,52 @@ numbers = [12, 46, 33, 23, 2]
 
 
 # modules ========================================================
-from convert import kgToLbs
+# from convert import kgToLbs
 
-result = kgToLbs(100)
+# result = kgToLbs(100)
 
-print(result)
+# print(result)
 
+# from convert import max_num
+
+# result = max_num([10, 20, 30, 40, 50])
+# print(result)
+
+
+
+
+
+# packages ========================================================
+
+# import ecommerce.shipping
+
+# or
+
+# from ecommerce.shipping import calculate_shipping
+
+# calculate_shipping()
+
+
+
+# create random number ========================================================
+
+# import random
+
+# for i in range(5):
+#     print(random.randint(1, 10))
+
+
+# members = ['John', 'Mary', 'Bob', 'Mosh', 'Sarah']
+# leader = random.choice(members)
+# print(leader)
+
+
+# class Dice:
+#     def roll(self):
+#         first = random.randint(1, 6)
+#         second = random.randint(1, 6)
+#         return first, second
+
+
+# dice = Dice()
+# print(dice.roll())
